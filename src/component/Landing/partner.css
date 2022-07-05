@@ -1,0 +1,51 @@
+#partner {
+  background-image: linear-gradient(#09062e, #0a072f);
+  position: relative;
+}
+
+.green-bar {
+  margin-left: -20px;
+  width: 2009.78px;
+  height: 11.66px;
+  left: 0;
+  top: 0;
+  margin-block: 20px;
+
+  background: #57fea3;
+  transform: matrix(0.99, -0.11, -0.11, -0.99, 0, 0);
+}
+.greenbar {
+  margin-left: -20px;
+  width: 2009.78px;
+
+  background: #57fea3;
+  transform: rotate(-6.1deg);
+}
+
+.green-bar-text {
+  position: relative;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 42px;
+  line-height: 66px;
+  padding-inline: 20px !important;
+
+  text-transform: capitalize;
+
+  color: #000000;
+}
+
+.imagebar {
+  margin-block: 20px;
+  margin-left: -60px;
+  width: 2009.78px;
+  transform: rotate(-6.1deg);
+}
+
+.margin {
+  margin-left: -35px !important;
+}
+
+.w-250 {
+  width: 250px;
+}

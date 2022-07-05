@@ -1,0 +1,6 @@
+#how {
+  background-image: linear-gradient(#08103a, #09062e);
+}
+.scale {
+  transform: scale(1.3, 1);
+}

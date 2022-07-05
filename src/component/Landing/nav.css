@@ -1,0 +1,10 @@
+.brand {
+  width: 70px;
+  height: 70px;
+  margin-top: 15px;
+}
+.nav {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  background-color: #191445 !important;
+}

@@ -1,0 +1,68 @@
+.main {
+  /* height: ; */
+  background-image: linear-gradient(
+      rgba(10, 5, 49, 0.55),
+      rgba(10, 5, 49, 0.55)
+    ),
+    url("../../../public/img/Bg.jpg");
+  background-size: 100% 100%;
+}
+
+.ots {
+  font-style: normal;
+  font-weight: 400;
+  line-height: 100%;
+  color: #fff;
+}
+
+.collection {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 100%;
+  /* identical to box height, or 40px */
+  text-transform: capitalize;
+
+  color: #ffffff;
+}
+
+.description {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 180%;
+  /* or 36px */
+
+  text-transform: capitalize;
+
+  color: #d3d3d3;
+}
+
+.main-button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 24px 48px;
+  gap: 10px;
+
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 100%;
+
+  color: #ffffff;
+  background: #ab9e1a;
+  border-radius: 40px;
+}
+
+.comming-soon {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 100%;
+  /* identical to box height, or 20px */
+
+  text-transform: capitalize;
+
+  color: #dbff00;
+}

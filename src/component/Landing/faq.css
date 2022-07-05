@@ -1,0 +1,15 @@
+#faq {
+  background-image: linear-gradient(
+      rgba(10, 5, 49, 0.85),
+      rgba(10, 5, 49, 0.85)
+    ),
+    url("../../../public/img/22.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.disclosure {
+  border: 1px solid #30268f;
+  border-radius: 7px;
+  padding: 1px;
+}
